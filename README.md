@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asadulR
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Nodejs and MongoDB
+- 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me 
 - https://www.linkedin.com/in/md-asadul-rahman/
